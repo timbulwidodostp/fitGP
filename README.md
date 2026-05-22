@@ -1,6 +1,8 @@
 # fitGP
 Gaussian Process regression for Empirical Dynamic Modeling Use fitGP (GPEDM) With (In) R Software
 
+https://www.youtube.com/watch?v=8vrvma4Asmk
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
